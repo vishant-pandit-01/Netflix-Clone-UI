@@ -23,19 +23,6 @@ This project replicates the look and feel of Netflix's landing page with section
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishant-pandit-01/Netflix-Clone-UI/main/assets/images/image1.png" width="800">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishant-pandit-01/Netflix-Clone-UI/main/assets/images/image2.png" width="400">
-  <img src="https://raw.githubusercontent.com/vishant-pandit-01/Netflix-Clone-UI/main/assets/images/image3.png" width="400">
-</p>
-
----
-
 ## 📂 Project Structure
 
 ```id="dq0flh"
