@@ -36,24 +36,17 @@ This project replicates the look and feel of Netflix's landing page with section
          ├ image2.png
          ├ image3.png
 ```
-
----
-
 ## 🌟 Future Improvements
 
 * Add JavaScript for interactivity
 * Make fully responsive for mobile devices
 * Add real movie data using API
 * Add login/signup page
-
 ---
 
 ## 🙌 Author
-
 Made with ❤️ by Vishant-pandit-01
-
 ---
 
 ## ⭐ Support
-
 If you like this project, give it a ⭐ on GitHub!
