@@ -8,6 +8,7 @@ body {
     overflow-x: hidden;
 }
 
+
 .s1 {
     height: 600px;
     width: 100%;
@@ -48,6 +49,7 @@ body {
 .play:hover {
     transform: scale(1.1);
 }
+
 
 .my_list {
     height: 30px;
@@ -163,6 +165,7 @@ body {
 .f3-left {
     flex-basis: 30%;
 }
+
 
 .logo {
     font-size: 24px;
